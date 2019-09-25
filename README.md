@@ -2,7 +2,7 @@
 
 ## [Portfolio website](zamanivisuals.ca)
 
-When i was 5 I upgraded the living room of our home into my own gallery by taking all my pencil crayons and making huge murals on the walls. To my parents it was scribbles, but I call it abstract. Even though my parents weren't pleased with it didn't stop me from doing what I enjoyed, which was art!
+When I was 5 I upgraded the living room of our home into my own gallery by taking all my pencil crayons and making huge murals on the walls. To my parents it was scribbles, but I call it abstract. Even though my parents weren't pleased with it didn't stop me from doing what I enjoyed, which was art!
 
 I love exploring thats why I chose graphic design. It's such a broad platform! I'm the happiest when i'm working on branding, packaging, motion, and illustration.
 
