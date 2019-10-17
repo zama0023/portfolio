@@ -1,0 +1,32 @@
+:root {
+--color-primary:#5A55E8;
+--color-primary-dark: #2B2626;
+--color-primary-light:#EBEBEB;
+--color-primary-secondary:#F44949;
+--color-accent:#FDE458;
+
+--font-primary:"paralucent", sans-serif;
+}
+
+html {
+  font-family: var(--font-primary:"paralucent", sans-serif);
+}
+
+a {
+  color: #EBEBEB;
+  font-weight: bold;
+  text-decoration: none;
+  text-transform: uppercase;
+
+}
+
+a:hover {
+  text-decoration: none;
+  color: #FDE458;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+cite {
+  font-style: italic;
+}

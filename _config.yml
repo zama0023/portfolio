@@ -1,3 +1,21 @@
 permalink: pretty
-
 theme: jekyll_patternbot
+
+patternbot:
+  title: "Zamani Visuals"
+  description:
+    Personal portfolio website containing case studies and client work.
+  font_url: "https://use.typekit.net/oqt0wba.css"
+  rationales:
+    typefaces.primary:
+      paralucent is the primary and only typeface used for this website. It's bold and legibale in a smaller font size.
+    color.primary:
+      This is the primary colour. It should be used as main headers.
+    color.primary.dark:
+      This colour should only be used as the background colour of the website.
+    color.primary.light:
+      This is the colour for the main text. It should be used for links and texts.
+    color.primary.secondary:
+      Use this colour for secondary headers.
+    color.primary.accent:
+      This colour is for link hovers.
