@@ -1,0 +1,13 @@
+html {
+  font-family: "paralucent", sans-serif;
+}
+
+.btn {
+  font-family: var(--font-primary): "paralucent", sans-serif;
+  background: var(--color-primary);
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  font-size: 25px;
+  padding: 5px 10px;
+}

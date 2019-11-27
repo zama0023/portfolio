@@ -1,0 +1,7 @@
+a {
+  text-decoration: none;
+}
+
+.profile, .contact, .archive {
+  font-family: "roboto mono", sans-serif;
+}

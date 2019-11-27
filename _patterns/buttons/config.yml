@@ -1,0 +1,12 @@
+title: "button"
+description: |
+    Buttons should be used for call-to-action situations.       This button will re-direct to the contact page. Do not overuse.
+
+patterns :
+  basic:
+    title: "basic"
+    description: |
+      This button will re-direct to the contact page.
+    padding: 5px 10px;
+    background-color: var(--color-primary-light);
+    font-size: 25px;
