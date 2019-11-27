@@ -1,0 +1,10 @@
+title: "footer"
+description: |
+    Footer of the page to show the rights reserved.
+patterns :
+  basic:
+    title: "basic"
+    description: |
+      This should go at the bottom of every page.
+    color: grey;
+    font-size: pico;

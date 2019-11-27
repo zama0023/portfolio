@@ -1,8 +1,9 @@
-title: "nav"
+title: "Navigation"
 description: |
-    Top nav for the website.
+    This is the top nav and it sits at the top of every page. It has the links to the other pages of the site.
 patterns :
-  basic:
-    title: "nav"
+  navigation:
+    title: "Top Nav"
     description: |
-      Main nav for the site. Sits at the top of the page.
+      This should go at the top of every page.
+    color: black;
