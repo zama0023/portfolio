@@ -31,3 +31,15 @@ a:hover {
 cite {
   font-style: italic;
 }
+
+h1 {
+  color: var(--color-primary);
+}
+
+h2 {
+  color: var(--color-accent);
+}
+
+h5 {
+  color: var(--color-accent);
+}
