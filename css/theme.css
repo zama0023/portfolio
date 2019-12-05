@@ -36,10 +36,14 @@ h1 {
   color: var(--color-primary);
 }
 
-h2 {
+h2,h3,h4 {
   color: var(--color-accent);
 }
 
-h5 {
-  color: var(--color-accent);
+.imglink {
+  font-family: "roboto mono", sans-serif;
+}
+
+.subhead {
+  font-weight: 400;
 }
