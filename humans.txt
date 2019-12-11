@@ -1,0 +1,23 @@
+# humanstxt.org
+
+# TEAM
+
+Website designed by Mehrara Zamani.
+
+---
+
+# THANKS
+
+All content on the website is my personal creations.
+
+---
+
+# TECHNOLOGY
+
+## Software
+
+Atom, Github.
+
+## Hosting
+
+Netlify, Cloudfare.
