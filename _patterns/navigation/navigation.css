@@ -2,6 +2,7 @@ a {
   text-decoration: none;
 }
 
-.navcolor {
-  color: var(--color-accent);
+.topnav {
+  font-family: "roboto mono", sans-serif;
+  color: var(--color-primary);
 }

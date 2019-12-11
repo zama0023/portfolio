@@ -4,13 +4,14 @@ html {
 
 button{
   font-family: var(--font-primary): "paralucent", sans-serif;
-  background: var(--color-primary);
   text-decoration: none;
   text-align: center;
   font-size: 25px;
-  padding: 5px 10px;
+  padding: 0;
+  border: none;
+  background: none;
 }
 
 .btn {
-  color: white;
+  color: var(--color-secondary);
 }

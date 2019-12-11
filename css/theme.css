@@ -1,10 +1,7 @@
 :root {
---color-primary: #5A55E8;
+--color-primary: #C167D6;
 --color-primary-dark: #000000;
---color-primary-light: #FFFFFF;
---color-accent: #E05FFF;
---color-accent-secondary: #3AE3EA;
-
+--color-secondary: #D6C167;
 --font-primary:"paralucent", sans-serif;
 --font-secondary: "roboto mono", sans-serif;
 }
@@ -22,7 +19,6 @@ a {
 }
 
 a:hover {
-  color: #3AE3EA;
   text-decoration: none;
   font-style: italic;
   text-transform: uppercase;
@@ -30,10 +26,6 @@ a:hover {
 
 cite {
   font-style: italic;
-}
-
-h1 {
-  color: var(--color-primary);
 }
 
 h2,h3,h4 {
@@ -46,4 +38,19 @@ h2,h3,h4 {
 
 .subhead {
   font-weight: 400;
+}
+
+.errorpage {
+  background-color: var(--color-secondary);
+  color: white;
+  height: 100%;
+}
+
+.errortext {
+  color: var(--color-primary);
+}
+
+.heretag {
+  color: white;
+  font-family:  "roboto mono", sans-serif;
 }
