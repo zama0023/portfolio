@@ -4,3 +4,7 @@
   display: inline;
   color: var(--color-primary);
 }
+
+.zv {
+  color: var(--color-primary);
+}
