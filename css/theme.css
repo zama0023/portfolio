@@ -1,9 +1,11 @@
 :root {
---color-primary: #C167D6;
+--color-primary: #FF3C3C;
 --color-primary-dark: #000000;
---color-secondary: #D6C167;
---font-primary:"paralucent", sans-serif;
---font-secondary: "roboto mono", sans-serif;
+--color-primary-light: #FFFAF7;
+--color-secondary: #6935F8;
+--colour-secondary-light: #ffffff;
+--font-primary: "roboto", sans-serif;
+--font-secondary: "utopia-std", serif;
 }
 
 html {
@@ -11,7 +13,6 @@ html {
 }
 
 a {
-  color: #000000;
   font-weight: bold;
   text-decoration: none;
   text-transform: uppercase;
@@ -20,16 +21,11 @@ a {
 
 a:hover {
   text-decoration: none;
-  font-style: italic;
   text-transform: uppercase;
 }
 
 cite {
   font-style: italic;
-}
-
-h2,h3,h4 {
-  color: var(--color-accent);
 }
 
 .imglink {

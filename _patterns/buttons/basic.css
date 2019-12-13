@@ -1,17 +1,13 @@
-html {
-  font-family: "paralucent", sans-serif;
-}
-
-button{
-  font-family: var(--font-primary): "paralucent", sans-serif;
+button {
+  font-family: "roboto", sans-serif;
   text-decoration: none;
   text-align: center;
-  font-size: 25px;
-  padding: 0;
+  font-size: 14px;
+  padding: .3em;
   border: none;
-  background: none;
+  background: var(--color-primary);
 }
 
 .btn {
-  color: var(--color-secondary);
+  color: var(--colour-secondary-light);
 }

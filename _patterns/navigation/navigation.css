@@ -1,8 +1,6 @@
-a {
-  text-decoration: none;
-}
-
 .topnav {
-  font-family: "roboto mono", sans-serif;
+  font-family: "roboto", sans-serif;
+  text-decoration: none;
+  display: inline;
   color: var(--color-primary);
 }
