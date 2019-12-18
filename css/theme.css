@@ -9,7 +9,7 @@
 }
 
 html {
-  font-family: var(--font-primary:"paralucent", sans-serif);
+  background-color:  var(--color-primary-light)
 }
 
 a {
@@ -29,7 +29,7 @@ cite {
 }
 
 .imglink {
-  font-family: "roboto mono", sans-serif;
+  font-family: "roboto", sans-serif;
 }
 
 .subhead {
@@ -37,16 +37,26 @@ cite {
 }
 
 .errorpage {
-  background-color: var(--color-secondary);
-  color: white;
   height: 100%;
+  display: block;
 }
 
 .errortext {
   color: var(--color-primary);
+  font-family: "roboto", sans-serif;
 }
 
 .heretag {
-  color: white;
-  font-family:  "roboto mono", sans-serif;
+  color: var(--color-primary);
+}
+.heretag:hover {
+  color: var(--color-secondary);
+
+}
+.headertwo {
+  font-family: "roboto", sans-serif;
+}
+
+h1,h2 {
+  color: var(--color-primary);
 }
