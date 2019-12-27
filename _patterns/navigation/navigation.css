@@ -2,13 +2,18 @@
   font-family: "roboto", sans-serif;
   text-decoration: none;
   color: var(--color-primary);
+  font-weight: 300;
 }
 
-.mz {
+.z {
   font-family: "utopia-std", serif;
   color: var(--color-primary);
 }
 
-ul, li {
+ul,li {
   display: inline-block;
+}
+
+.topnav:hover {
+  color: var(--color-secondary);
 }

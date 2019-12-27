@@ -1,15 +1,11 @@
 :root {
 --color-primary: #FF3C3C;
 --color-primary-dark: #000000;
---color-primary-light: #FFFAF7;
+--color-primary-light: #F2E7E7;
 --color-secondary: #6935F8;
 --colour-secondary-light: #ffffff;
 --font-primary: "roboto", sans-serif;
 --font-secondary: "utopia-std", serif;
-}
-
-html {
-  background-color:  var(--color-primary-light)
 }
 
 a {
@@ -28,10 +24,6 @@ cite {
   font-style: italic;
 }
 
-.imglink {
-  font-family: "roboto", sans-serif;
-}
-
 .subhead {
   font-weight: 400;
 }
@@ -46,17 +38,17 @@ cite {
   font-family: "roboto", sans-serif;
 }
 
-.heretag {
+.heretag, h2, .para {
   color: var(--color-primary);
 }
 .heretag:hover {
   color: var(--color-secondary);
 
 }
-.headertwo {
+.headertwo, .para, .imglink, p {
   font-family: "roboto", sans-serif;
 }
 
-h1,h2 {
-  color: var(--color-primary);
+.title {
+  font-family: "utopia-std", serif;
 }

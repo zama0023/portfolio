@@ -1,8 +1,9 @@
 .footer {
   color: grey;
+  font-family: "roboto", sans-serif;
 }
 
 .social {
-  font-family: "roboto mono", sans-serif;
+  font-family: "roboto", sans-serif;
   color: var(--color-primary);
 }
