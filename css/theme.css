@@ -5,7 +5,7 @@
 --color-secondary: #6935F8;
 --colour-secondary-light: #ffffff;
 --font-primary: "roboto", sans-serif;
---font-secondary: "utopia-std", serif;
+--font-secondary: "roboto-mono", monospace;
 }
 
 a {
@@ -50,5 +50,5 @@ cite {
 }
 
 .title {
-  font-family: "utopia-std", serif;
+  font-family: "roboto-mono", monospace;
 }
