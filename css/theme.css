@@ -39,6 +39,6 @@ cite {
   color: var(--color-secondary);
 
 }
-.headertwo, .headerone, .para, .imglink, p {
+.headertwo, .headerone, .para, .imglink, p, h1 {
   font-family: "roboto", sans-serif;
 }
