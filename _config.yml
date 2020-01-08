@@ -15,7 +15,5 @@ patternbot:
       This is the primary colour. It should be used as main headers.
     color.primary.dark: |
       This colour is for the main text.
-    color.primary.light: |
-      This is the colour for the background.
     color.primary.accent: |
       This colour is for link hovers and for secondary text headers.

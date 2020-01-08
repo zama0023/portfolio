@@ -1,19 +1,9 @@
 .topnav {
-  font-family: "roboto", sans-serif;
+  font-family: "roboto-mono", monospace;
   text-decoration: none;
-  color: var(--color-primary);
-  font-weight: 300;
-}
-
-.z {
-  font-family: "utopia-std", serif;
   color: var(--color-primary);
 }
 
 ul,li {
   display: inline-block;
-}
-
-.topnav:hover {
-  color: var(--color-secondary);
 }

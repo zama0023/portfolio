@@ -4,6 +4,6 @@
 }
 
 .social {
-  font-family: "roboto", sans-serif;
+  font-family: "roboto-mono", monospace;
   color: var(--color-primary);
 }
