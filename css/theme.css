@@ -39,7 +39,7 @@ cite {
   color: var(--color-secondary);
 
 }
-.headerone, .para, .imglink, p, h1 {
+.headerone, .para, .imglink, p, h1, h2, h3, h4, h5, h6 {
   font-family: "roboto", sans-serif;
 }
 
