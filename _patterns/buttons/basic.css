@@ -3,7 +3,7 @@ button {
   text-decoration: none;
   text-align: center;
   font-size: 14px;
-  padding: .3em;
+  padding: .5em;
   border: none;
   background: var(--color-primary);
 }
