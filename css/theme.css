@@ -43,6 +43,9 @@ cite {
   font-family: "roboto", sans-serif;
 }
 
+.headerone {
+  color: var(--color-primary-dark);
+}
 
 .container {
   position: relative;
