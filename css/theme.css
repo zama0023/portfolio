@@ -75,3 +75,9 @@ cite {
   transform: translate(-50%, -50%);
   text-align: center;
 }
+
+.vid {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
