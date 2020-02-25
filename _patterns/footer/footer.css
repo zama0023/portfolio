@@ -5,5 +5,9 @@
 
 .social {
   font-family: "roboto-mono", monospace;
+  color: var(--color-primary-dark);
+}
+
+.social:hover {
   color: var(--color-primary);
 }

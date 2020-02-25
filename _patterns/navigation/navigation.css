@@ -1,6 +1,10 @@
 .topnav {
   font-family: "roboto-mono", monospace;
   text-decoration: none;
+  color: var(--color-primary-dark);
+}
+
+.topnav:hover {
   color: var(--color-primary);
 }
 
