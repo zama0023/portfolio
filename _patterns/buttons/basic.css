@@ -12,6 +12,7 @@ button {
   position: fixed;
   bottom: 30px;
   right: 30px;
+  color: var(--colour-secondary-light);
 }
 .btn {
   color: var(--colour-secondary-light);
