@@ -2,6 +2,7 @@
   font-family: "roboto-mono", monospace;
   text-decoration: none;
   color: var(--color-primary-dark);
+  float: right;
 }
 
 .topnav:hover {
@@ -10,4 +11,9 @@
 
 ul,li {
   display: inline-block;
+}
+
+.logo {
+  float: left;
+  position: relative;
 }
